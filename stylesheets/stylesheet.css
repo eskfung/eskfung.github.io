@@ -263,6 +263,16 @@ img {
   max-width: 100%;
 }
 
+td textarea {
+  overflow: hidden;
+  resize: none;
+  border-style: none;
+  background-color: inherit;
+  outline: none;
+  font: inherit;
+  font-style: inherit;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
