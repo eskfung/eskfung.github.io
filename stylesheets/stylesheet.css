@@ -18,7 +18,7 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
+textarea, article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
@@ -261,16 +261,6 @@ form {
 img {
   width: 100%;
   max-width: 100%;
-}
-
-td textarea {
-  overflow: hidden;
-  resize: none;
-  border-style: none;
-  background-color: inherit;
-  outline: none;
-  font: inherit;
-  font-style: inherit;
 }
 
 /*******************************************************************************
