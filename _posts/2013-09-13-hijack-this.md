@@ -10,17 +10,17 @@ There are numbers listed on the left side of all of the listings, and these rela
 
 ## Function by Code:
 
-* R0, R1, R2, R3 - IE Start URLs
-* N1, N2, N3, N4 - Mozilla Start URLs
-* 01 - Hosts file redirection
-* 02 - Browser Helper Object
-* 03 - Internet Explorer toolbars
-* 04 - Startups
-* 010 - Winsock Hijacker
-* 013 - IE Default Prefix hijack
-* 014 - "Reset Web Settings" hijack
-* 015 - Unwanted site in Trusted Zone
-* 017, 018, 019 are also all hijackers
+* `R0, R1, R2, R3` - IE Start URLs
+* `N1, N2, N3, N4` - Mozilla Start URLs
+* `01` - Hosts file redirection
+* `02` - Browser Helper Object
+* `03` - Internet Explorer toolbars
+* `04` - Startups
+* `010` - Winsock Hijacker
+* `013` - IE Default Prefix hijack
+* `014` - "Reset Web Settings" hijack
+* `015` - Unwanted site in Trusted Zone
+* `017, 018, 019` are also all hijackers
 
 We're now going to collect bad files, so just click on the ones you want to remove, and click on the "fix checked" button at the very end.
 
