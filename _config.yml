@@ -1,2 +1,10 @@
+# Jekyll Config
 permalink: none
 markdown: rdiscount
+exclude: [Gemfile,Gemfile.lock,CNAME,README.md]
+
+# Styling
+sass:
+  style: compressed
+  deploy_style: compressed
+  compile_in_place: true
