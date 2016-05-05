@@ -1,6 +1,6 @@
 # Jekyll Config
 permalink: none
-markdown: rdiscount
+markdown: kramdown
 exclude: [Gemfile,Gemfile.lock,CNAME,README.md]
 
 # Styling
