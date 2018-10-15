@@ -3,16 +3,13 @@ layout: post
 title: "TWiki Articles"
 tags: []
 permalink: /twiki/
----     
+---
 {% for page in site.categories.twiki %}
 
-<ul class="summary" > 
+<ul class="summary" >
   <li>
     <a href="{{page.url}}">
-      <h3>
       {{ page.title }}
-      </h3>
-      <p>{{page.summary}}</p>
     </a>
   </li>
 </ul>
