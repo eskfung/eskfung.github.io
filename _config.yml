@@ -8,3 +8,5 @@ sass:
   style: compressed
   deploy_style: compressed
   compile_in_place: true
+
+theme: jekyll-theme-cayman
