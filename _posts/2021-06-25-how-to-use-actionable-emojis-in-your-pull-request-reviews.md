@@ -2,6 +2,8 @@
 layout: post
 title: How to Use Actionable Emojis in Your Pull Request Reviews
 categories: twiki
+image: https://user-images.githubusercontent.com/1744567/157798870-e4262287-0db4-4c15-8f95-8536e07fa78d.png
+image_alt: eggshells painted with various emoji
 ---
 
 Carbon Five has embraced emoji in daily written communication. They carry a lot of meaning in a small package, they inject personality and culture into our writing, and they visually stand out on the page as you scan a document. Pull requests are no exception. Love them or hate them, emojis ensure our pull request comments include the intended tone, something easily lost in written communication.

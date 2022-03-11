@@ -2,6 +2,8 @@
 layout: post
 title: In Support of the “Snacklog”
 categories: twiki
+image: https://user-images.githubusercontent.com/1744567/157798868-a755f13c-ea07-4664-8f14-6c707a7b7b70.jpeg
+image_alt: basket of pretzels
 ---
 
 Recently we’ve noticed a number of our clients maintain a backlog of small tasks that are handled separately from their main backlog. These are tasks that should be finished at some point, but will rarely take priority over business-critical features and bugfixes. Often they are bite-sized pieces of work that can be finished in a couple of hours or less: addressing engineering chores, paying off tech debt, and addressing minor bugs. Internally, this separate backlog has earned a catchy name: **the snacklog**.

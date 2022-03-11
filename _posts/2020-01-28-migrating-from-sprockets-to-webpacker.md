@@ -2,6 +2,8 @@
 layout: post
 title: In Support of the “Snacklog”
 categories: twiki
+image: https://user-images.githubusercontent.com/1744567/157798874-7df0f894-eb4d-4b29-af7b-930ba87201af.jpeg
+image_alt: piping on a roof
 ---
 
 Starting with Rails 6, Webpacker became the default asset compiler, replacing sprockets–better known as the asset pipeline. While the asset pipeline was a big step for its time in making it easy to package JS, CSS, and images, webpack has matured enough to do all of the above and more, due to modern JavaScript’s support for modular imports and exports.
