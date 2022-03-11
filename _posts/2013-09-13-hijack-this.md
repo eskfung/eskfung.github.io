@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hijack This
-categories: twiki
+categories: writing
 ---
 
 HiJack this is a handy tool to view startup entries in the registry, non-MS services, BHO's, and more. It works by listing various files that modify browser welcome pages, run on startup, and hijack your internet among other things. It is typically the first program I will run because of its all-encompassing prowess in identifying trouble. This is an advanced tool that **PERMANENTLY DELETES** the offending file, so please use caution when modifying anything in it.

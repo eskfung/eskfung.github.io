@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use Actionable Emojis in Your Pull Request Reviews
-categories: twiki
+categories: writing
 image: https://user-images.githubusercontent.com/1744567/157798870-e4262287-0db4-4c15-8f95-8536e07fa78d.png
 image_alt: eggshells painted with various emoji
 ---

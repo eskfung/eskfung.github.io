@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Support of the “Snacklog”
-categories: twiki
+categories: writing
 image: https://user-images.githubusercontent.com/1744567/157798868-a755f13c-ea07-4664-8f14-6c707a7b7b70.jpeg
 image_alt: basket of pretzels
 ---

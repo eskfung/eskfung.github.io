@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Proxy Connections
-categories: twiki
+categories: writing
 ---
 
 Ever try to reach a dev environment from somewhere off campus (home) and been denied?  Better yet, ever worry about browsing online on an unsecure connection?  You can resolve both by setting up a proxy connection!
