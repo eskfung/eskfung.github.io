@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In Support of the “Snacklog”
+title: Migrating From Sprockets to Webpacker
 categories: twiki
 image: https://user-images.githubusercontent.com/1744567/157798874-7df0f894-eb4d-4b29-af7b-930ba87201af.jpeg
 image_alt: piping on a roof
