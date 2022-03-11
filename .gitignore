@@ -1,5 +1,4 @@
 _site/*
 .DS_Store
-.rvmrc
-.ruby-version
-.ruby-gemset
+.tool-versions
+.sass-cache
