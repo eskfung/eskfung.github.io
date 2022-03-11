@@ -57,8 +57,8 @@ Then at the top of your new entrypoint:
 
 ```js
 // app/javascript/packs/application.js
-import "core-js/stable"
-import "regenerator-runtime/runtime"
+import "core-js/stable";
+import "regenerator-runtime/runtime";
 ```
 
 ### Use the new view helper
@@ -92,7 +92,7 @@ To get Webpacker to handle your styles, you need your JS entry point to import y
  * Note that we don't need to preface this path with "app/javascript" due to the `source_path` config set in config/webpacker.yml. Magical!
  * The file extension can be left off due to the `extensions` config in config/webpacker.yml.
  */
-import "stylesheets/application"
+import "stylesheets/application";
 ```
 
 ### Use the new view helper
@@ -120,8 +120,8 @@ Uncomment the generated block to make your pack aware of everything in the image
 
 ```js
 // app/javascript/packs/application.js
-const images = require.context('../images', true)
-const imagePath = (name) => images(name, true)
+const images = require.context("../images", true);
+const imagePath = (name) => images(name, true);
 ```
 
 ### Use the new view helper
@@ -146,11 +146,11 @@ Webpack 4 has a new plugin to split chunks, which allows for shared dependencies
 
 ```js
 // config/webpack/environment.js
-const { environment } = require(‘@rails/webpacker’)
+const { environment } = require("@rails/webpacker");
 
-environment.splitChunks()
+environment.splitChunks();
 
-module.exports = environment
+module.exports = environment;
 ```
 
 ```erb
